@@ -73,7 +73,7 @@ The project is built around clean object-oriented design patterns in Java:
 graph TD
     Main --> TicTacToe
     Main --> Minimax
-    Minimax --> TicTacToee
+    Minimax --> TicTacToe
 ```
  * Main.java: Orchestrates the main game loop, handles user inputs, and prints UI messages to the console.
  * TicTacToe.java: Manages the board state, handles turn logic, validates moves, and evaluates win/draw conditions.
