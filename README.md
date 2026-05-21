@@ -80,6 +80,7 @@ graph TD
  * Minimax.java: Encapsulates the core artificial intelligence decision-making engine.
 
 🛠️ Tech Stack & Learning Outcomes
+
 Technology Stack
 Language: Java
 Concepts: Search Theory, Algorithmic Game Theory, Graph Traversal
@@ -90,4 +91,5 @@ State-Space Modeling: Representing real-world game logic and board states in sof
 Decision Optimization: Applying adversarial search principles to build self-learning/unbeatable game systems.
 
 👥 Author
+
 IOANNIS RAFAIL TORNARITIS
