@@ -78,6 +78,7 @@ graph TD
  * Main.java: Orchestrates the main game loop, handles user inputs, and prints UI messages to the console.
  * TicTacToe.java: Manages the board state, handles turn logic, validates moves, and evaluates win/draw conditions.
  * Minimax.java: Encapsulates the core artificial intelligence decision-making engine.
+
 🛠️ Tech Stack & Learning Outcomes
 Technology Stack
 Language: Java
@@ -87,5 +88,6 @@ Heuristic Application: Practical experience in designing and proofing admissible
 Algorithm Comparison: Quantitative understanding of the performance gap between informed and uninformed search.
 State-Space Modeling: Representing real-world game logic and board states in software structures.
 Decision Optimization: Applying adversarial search principles to build self-learning/unbeatable game systems.
+
 👥 Author
 IOANNIS RAFAIL TORNARITIS
