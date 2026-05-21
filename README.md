@@ -79,17 +79,22 @@ graph TD
  * TicTacToe.java: Manages the board state, handles turn logic, validates moves, and evaluates win/draw conditions.
  * Minimax.java: Encapsulates the core artificial intelligence decision-making engine.
 
-🛠️ Tech Stack & Learning Outcomes
+## 🛠️ Tech Stack & Learning Outcomes
 
-Technology Stack
-Language: Java
-Concepts: Search Theory, Algorithmic Game Theory, Graph Traversal
-Key Takeaways
-Heuristic Application: Practical experience in designing and proofing admissible heuristics.
-Algorithm Comparison: Quantitative understanding of the performance gap between informed and uninformed search.
-State-Space Modeling: Representing real-world game logic and board states in software structures.
-Decision Optimization: Applying adversarial search principles to build self-learning/unbeatable game systems.
+### Technology Stack
+* **Language:** Java
+* **Concepts:** Search Theory, Algorithmic Game Theory, Graph Traversal
 
-👥 Author
+### Key Takeaways
+* **Heuristic Application:** Practical experience in designing and proofing admissible heuristics.
+* **Algorithm Comparison:** Quantitative understanding of the performance gap between informed and uninformed search.
+* **State-Space Modeling:** Representing real-world game logic and board states in software structures.
+* **Decision Optimization:** Applying adversarial search principles to build self-learning/unbeatable game systems.
 
-IOANNIS RAFAIL TORNARITIS
+---
+
+## 👥 Author
+* **IOANNIS RAFAIL TORNARITIS**
+
+---
+*Developed as part of the practical laboratory requirements for Artificial Intelligence.*
